@@ -36,6 +36,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntoNunez&show_icons=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en&layout=compact" alt="antonunez" /></p>
 <!---
 AntoNunez/AntoNunez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
