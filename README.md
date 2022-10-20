@@ -10,7 +10,7 @@
 
 ### 🥳 Acerca de mi
 
-👉  Soy un apasionado Desarrollador full-stack  🖥️
+👉  Soy un Desarrollador full-stack en constante aprendizaje 🖥️
 
 👉  Vivo en Santiago, Chile &#x1F1E8;&#x1F1F1;
 
